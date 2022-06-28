@@ -138,4 +138,4 @@ sendemail<-function(sender,recepient)
             )
 }
 
-sendemail("meltahir@eim.ae","meltahir@gmail.com")
+sendemail("my_email@eim.ae","dst_email@gmail.com")
